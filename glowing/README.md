@@ -1,5 +1,7 @@
 # How to create a glowing cube?
 
+Download the [Blender 2.8 file](sdf.blend).
+
 ![glowing.blend](final.jpg)
 
 * Turn eevee on:  
