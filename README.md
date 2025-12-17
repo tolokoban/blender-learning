@@ -3,6 +3,7 @@ Blender projects and how to solve them.
 
 * [Glowing effect](glowing/README.md)
 * [Geometry Nodes](geonodes/README.md)
+* [Sculpting](sculpting/README.md)
 * [SDF](sdf/README.md)
 
 Resources
