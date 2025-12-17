@@ -2,7 +2,7 @@
 
 ## Shortcuts
 
-* `Alt-Q` : Selectionner un autre object à sculpter
+* `F` : Créer une frame avec un nom autour de nodes sélectionnés
 
 ## Exemples
 
