@@ -10,3 +10,5 @@ Pour cela, il faut créer deux courbes de Bézier :
 Ensuite, on applique ces Geometry Nodes :
 
 ![geonodes](ribcage.webp)
+
+![sampler](ribcage-sampler.webp)
