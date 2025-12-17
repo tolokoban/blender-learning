@@ -1,5 +1,8 @@
 # How to create a glowing cube?
 
+> This methode is obsolete. Now we do this in the compositor.
+
+
 Download the [Blender 2.8 file](sdf.blend).
 
 ![glowing.blend](final.jpg)
